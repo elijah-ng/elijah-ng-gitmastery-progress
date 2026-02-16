@@ -338,14 +338,5 @@
       "Great work with undoing the merges! Try listing the directory to see what has changed."
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "glossary-branch-push",
-    "started_at": 1771202836.970987,
-    "completed_at": 1771202838.49967,
-    "comments": [
-      "Great work pushing the PQR branch to your fork!"
-    ],
-    "status": "Completed"
   }
 ]
